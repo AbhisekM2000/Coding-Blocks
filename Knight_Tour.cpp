@@ -1,5 +1,4 @@
-// Deepak Aggarwal, Coding Blocks
-// deepak@codingblocks.com
+//Abhisek Mohanty
 #include <iostream>
 #include <iomanip>
 using namespace std;
